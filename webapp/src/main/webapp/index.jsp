@@ -44,7 +44,7 @@ button {
 </style>   
 </head>    
 <body>    
-    <center> <h1> New build wtih jfrog changes </h1> </center>   
+    <center> <h1> new build with apache tomcat </h1> </center>   
     <form>  
         <div class="container">   
             <label>student name : </label>   
